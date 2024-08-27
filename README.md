@@ -1,11 +1,16 @@
-# arch-config
-## My configs for arch linux
+<h1>My configs for Arch Linux</h1>
 
-Prerequisites for Neovim:
-    - vim-plug: https://github.com/junegunn/vim-plug.git
-    ![](/home/ricebear/Pictures/Screenshots/alacritty.JPG)
-
-Prerequisites for Alacritty:
-    - synth-shell: https://github.com/andresgongora/synth-shell.git
-    ![](/home/ricebear/Pictures/Screenshots/dashboard.JPG)
-    ![](/home/ricebear/Pictures/Screenshots/neovim.JPG)
+<h2>Prerequisites for Neovim:</h2>
+<ul> 
+   <li>vim-plug</li>
+```
+https://github.com/junegunn/vim-plug.git
+```
+</ul> 
+<ul> 
+<h2>Prerequisites for Alacritty:</h2>
+    <li>synth-shell</li>
+```
+https://github.com/andresgongora/synth-shell.git
+```
+</ul> 

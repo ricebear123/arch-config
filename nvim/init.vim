@@ -34,6 +34,7 @@ call plug#begin()
  Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
  Plug 'akinsho/toggleterm.nvim', {'tag' : '*'}
  Plug 'neoclide/coc.nvim', {'branch':'release'}
+ Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app && npm install' }
 call plug#end()
 
 nnoremap <C-f> :NERDTreeToggle<CR>
