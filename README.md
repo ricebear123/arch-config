@@ -1,16 +1,15 @@
-<h1>My configs for Arch Linux</h1>
+# My configs for Arch Linux
 
-<h2>Prerequisites for Neovim:</h2>
-<ul> 
-   <li>vim-plug</li>
+## Prerequisites for Neovim
+### vim-plug
 ```
 https://github.com/junegunn/vim-plug.git
-```
-</ul> 
-<ul> 
-<h2>Prerequisites for Alacritty:</h2>
-    <li>synth-shell</li>
+``` 
+## Prerequisites for Alacritty
+### synth-shell
 ```
 https://github.com/andresgongora/synth-shell.git
 ```
-</ul> 
+
+## Demo Pics
+![](https://github.com/ricebear123/arch-config/blob/main/pics/alacritty.JPG)
